@@ -1,0 +1,181 @@
+
+
+.img{
+    width: 10px;
+}
+.h1{
+    text-align: center;
+    color: white;
+    font: ;
+}
+body{
+    background-color: white;
+}
+.one{
+    background-image: url("resources/ish.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    text-align: center;
+    margin-top: 10px;
+}
+.h1{
+    text-align: center;
+    color: white;
+    font: bold;
+    padding-bottom: 10px;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    size: 20px;
+}
+.btn{
+    border: none;
+}
+.a{
+    background-color: #a71d2a;
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+    height: 50vh;
+    border-radius: 5px;
+    text-align: center;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.b{
+    width: 30px;
+    height: 5vh;
+}
+.c{
+    text-align: center;
+}
+.item1{
+    background-color: #a71d2a;
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+    height: 50vh;
+    border-radius: 5px;
+    text-align: center;
+}
+.col{
+    text-align: center;
+    color: black;
+}
+.one{
+    background-image: url("resources/church.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.col{
+    text-align: center;
+    color: black;
+}
+h3{
+    font-weight: bold;
+}
+.pic{
+    height: 20%;
+    display: block;
+    margin-left: auto;
+    width: 20%;
+}
+.ww{
+    width: 5%;
+}
+.wayne{
+    height: 28vh;
+    width: 250px;
+}
+.miri{
+    background-color: #bd2130;
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ttt{
+    text-align: left;
+}
+.bbb{
+    text-align: left;
+}
+.btn{
+    color: white;
+}
+.a{
+    width: 10%;
+
+}
+.col{
+    text-align: center;
+    color: black;
+}
+.one{
+    background-image: url("resources/roman.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.col{
+    text-align: center;
+    color: black;
+}
+h3{
+    font-weight: bold;
+}
+.pic{
+    height: 20%;
+    display: block;
+    margin-left: auto;
+    width: 20%;
+}
+.ww{
+    width: 5%;
+}
+.wayne{
+    height: 10vh;
+    width: 5%;
+}
+.miri{
+    background-color: #bd2130;
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ttt{
+    text-align: left;
+}
+.bbb{
+    text-align: left;
+}
+.btn{
+    color: white;
+}
+
